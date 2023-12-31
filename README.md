@@ -17,7 +17,7 @@ Compatible WebDriver for your chosen browser (e.g., ChromeDriver, GeckoDriver)
 ## Setup
 
 Clone the repository:
-git clone https://github.com/[username]/[repository-name]
+git clone https://github.com/Heba114/Q-pros_WebTask
 
 Import the project into your IDE as a Maven project.
 
